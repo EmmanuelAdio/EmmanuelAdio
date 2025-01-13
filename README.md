@@ -38,7 +38,7 @@ I’m **Emmanuel Adio**, a passionate software developer and AI enthusiast. My j
 - Built an AI-powered feature for identifying objects and providing historical context  
 - Integrated quizzes and leaderboards to enhance engagement  
 
-#### 🎯 [BetterYesterday: Goal Setting App]([#](https://github.com/EmmanuelAdio/BetterYesterday))  
+#### 🎯 [BetterYesterday: Goal Setting App](#)  
 *Java/Kotlin*  
 - Created an Android app for setting and tracking personal goals  
 - Implemented intuitive navigation, local storage, and calendar integrations  
