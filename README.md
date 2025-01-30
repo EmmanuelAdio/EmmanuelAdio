@@ -10,7 +10,6 @@ I’m **Emmanuel Adio**, a passionate software developer and AI enthusiast. My j
 - 🎓 **Education:** Integrated Masters in Computer Science (First Class)  
 - 🏆 **Hackathon Achievements:**  
   - **First Place & People’s Choice Award** at the **BGN Hackathon** for [Spotlight](#)  
-- 💼 **Internships:** Business Intelligence Intern at Sodexo, Research Fellow Intern at Loughborough University, and Software Engineering Volunteer at PRGRSS  
 - 💬 **Ask Me About:** Machine Learning, Neural Networks, Java Development, and Android Apps  
 - ⚡ **Fun Facts:** I’m an **avid learner** and enjoy exploring creative ways to make technology impactful.
 
@@ -69,8 +68,6 @@ I’m **Emmanuel Adio**, a passionate software developer and AI enthusiast. My j
 ### 📣 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/emmanuel-adio-272097216](https://linkedin.com/in/emmanuel-adio-272097216)  
-- **GitHub:** [github.com/EmmanuelAdio](https://github.com/EmmanuelAdio)  
-- **Email:** emmanueladio065@gmail.com
-- **Portfolio:** [emmanueladio065@gmail.com  ](https://emmanueladio.github.io/)
+- **Portfolio:** [https://emmanueladio.github.io/](https://emmanueladio.github.io/)
 
 ---
