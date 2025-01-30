@@ -1,3 +1,5 @@
+<!-- <img src="https://komarev.com/ghpvc/?username=EmmanuelAdio&label=Views&color=blue&style=plastic" alt="Emmanuel" /> -->
+
 # Hi there! 👋 Welcome to Emmanuel Adio's GitHub
 
 I’m **Emmanuel Adio**, a passionate software developer and AI enthusiast. My journey is fueled by a love for problem-solving, innovation, and a keen interest in **fintech**, **AI**, and **machine learning**.
